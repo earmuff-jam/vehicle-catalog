@@ -1,0 +1,20 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Book pages -->
+  <path d="M50,50 C70,30, 130,30, 150,50" fill="none" stroke="black" stroke-width="3"/>
+  <path d="M50,150 C70,130, 130,130, 150,150" fill="none" stroke="black" stroke-width="3"/>
+  
+  <!-- Left side of the book -->
+  <rect x="50" y="50" width="50" height="100" fill="white" stroke="black" stroke-width="2"/>
+  <!-- Right side of the book -->
+  <rect x="100" y="50" width="50" height="100" fill="white" stroke="black" stroke-width="2"/>
+  
+  <!-- Book spine -->
+  <rect x="98" y="50" width="4" height="100" fill="black"/>
+  
+  <!-- Decorative lines to represent text -->
+  <line x1="55" y1="70" x2="95" y2="70" stroke="black" stroke-width="1"/>
+  <line x1="55" y1="85" x2="95" y2="85" stroke="black" stroke-width="1"/>
+  <line x1="55" y1="100" x2="95" y2="100" stroke="black" stroke-width="1"/>
+  <line x1="55" y1="115" x2="95" y2="115" stroke="black" stroke-width="1"/>
+  <line x1="55" y1="130" x2="95" y2="130" stroke="black" stroke-width="1"/>
+</svg>
