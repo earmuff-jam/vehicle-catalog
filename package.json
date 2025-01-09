@@ -1,8 +1,8 @@
 {
-  "name": "vehicle-catalog",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@earmuffjam/vehicle-catalog",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Application to display vehicle catalog information. Data is used from NHTSA. Retains validity for US only.",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
